@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T02:41:31.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TOZR8tJswJQAAE6MCFBU" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T02:42:37.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HxmdGGWIS-0EEq4oAc-G" version="20.5.1" type="github">
   <diagram id="P3Zgkzh8Dkk7_CBR3MSJ" name="第 1 页">
     <mxGraphModel dx="823" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,29 +12,23 @@
             <mxPoint x="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TYJ-bC42JLr17HQNcbC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TYJ-bC42JLr17HQNcbC-1" target="1TYJ-bC42JLr17HQNcbC-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1TYJ-bC42JLr17HQNcbC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TYJ-bC42JLr17HQNcbC-1" target="1TYJ-bC42JLr17HQNcbC-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1TYJ-bC42JLr17HQNcbC-1" value="证书申请者" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="241.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1TYJ-bC42JLr17HQNcbC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TYJ-bC42JLr17HQNcbC-2" target="1TYJ-bC42JLr17HQNcbC-8">
+        <mxCell id="1TYJ-bC42JLr17HQNcbC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TYJ-bC42JLr17HQNcbC-2" target="1TYJ-bC42JLr17HQNcbC-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710.5" y="355" />
+              <mxPoint x="710" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TYJ-bC42JLr17HQNcbC-10" value="2. 使用私钥创建证书签名请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TYJ-bC42JLr17HQNcbC-9">
-          <mxGeometry x="0.5203" y="-2" relative="1" as="geometry">
-            <mxPoint x="51" y="2" as="offset" />
+        <mxCell id="1TYJ-bC42JLr17HQNcbC-22" value="2. 使用私钥创建证书签名请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TYJ-bC42JLr17HQNcbC-21">
+          <mxGeometry x="0.3031" relative="1" as="geometry">
+            <mxPoint x="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1TYJ-bC42JLr17HQNcbC-2" value="私钥" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#DA4026;" vertex="1" parent="1">
-          <mxGeometry x="697.5" y="230" width="25" height="53" as="geometry" />
+          <mxGeometry x="697.5" y="230" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TYJ-bC42JLr17HQNcbC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TYJ-bC42JLr17HQNcbC-8" target="1TYJ-bC42JLr17HQNcbC-11">
           <mxGeometry relative="1" as="geometry" />
